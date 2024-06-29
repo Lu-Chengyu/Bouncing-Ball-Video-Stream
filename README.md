@@ -38,7 +38,7 @@ This project demonstrates a simple server-client application that streams a vide
 * [x] Docstrings
 
 
-## Installation & Running & test
+## Installation & Running
 
 1. Install the required dependencies:
    ```bash
