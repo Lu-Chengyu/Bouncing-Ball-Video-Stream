@@ -52,13 +52,6 @@ This project demonstrates a simple server-client application that streams a vide
    python client.py
    ```
 
-3. Test the Server and Client
-   ```bash
-   pytest test_client.py
-
-   pytest test_server.py
-   ```
-
 The server generates the video stream with a bouncing ball and handles the signaling and communication with the client.
 
 The client receives the video stream from the server, displays it, tracks the position of the ball, and sends the coordinates back to the server.
